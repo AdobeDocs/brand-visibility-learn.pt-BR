@@ -35,7 +35,7 @@ Neste vídeo, você aprenderá:
 * Como os dados de citação diferem do relatório de desempenho de pesquisa clássico de cliques, impressões e classificação
 * Por que isso é importante para sua estratégia GEO e como ela complementa o Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502696/?captions=por_br&learn=on){transcript=true}
 
 >[!NOTE]
 >Atualmente, o Relatório de desempenho da IA abrange citações somente no Bing Copilot e nos resumos da IA. Ele ainda não inclui outros assistentes de IA, como o ChatGPT.
