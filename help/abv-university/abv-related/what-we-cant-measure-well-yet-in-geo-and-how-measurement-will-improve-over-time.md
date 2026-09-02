@@ -33,4 +33,4 @@ Neste vídeo, você aprenderá:
 * Por que os nomes de marca que também são palavras comuns são difíceis de detectar
 * Por que a medição é uma melhoria contínua que continua melhorando
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502863/?captions=por_br&learn=on){transcript=true}

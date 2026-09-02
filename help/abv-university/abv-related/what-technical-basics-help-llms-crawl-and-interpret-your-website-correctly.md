@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Por que os canônicos, paywalls e murais de logon inconsistentes limitam o acesso à IA
 * Como a renderização do lado do cliente oculta o conteúdo e como a recuperação do visibilidade do conteúdo o corrige
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502926/?captions=por_br&learn=on){transcript=true}

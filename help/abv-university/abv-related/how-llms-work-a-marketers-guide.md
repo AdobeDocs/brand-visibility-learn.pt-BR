@@ -33,4 +33,4 @@ Neste vídeo, você aprenderá:
 * Como a recuperação (RAG) fundamenta as respostas em fontes ativas e produz citações
 * Por que a moeda da descoberta está mudando do clique para a citação e as cinco alavancas que recebem citações
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502889/?captions=por_br&learn=on){transcript=true}

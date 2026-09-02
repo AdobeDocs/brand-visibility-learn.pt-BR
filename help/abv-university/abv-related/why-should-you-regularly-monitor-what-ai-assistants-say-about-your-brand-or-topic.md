@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Como informações incorretas de terceiros podem gerar uma experiência ruim para o cliente
 * Por que o monitoramento semanal é uma cadência prática, com disponibilidade diária
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502817/?captions=por_br&learn=on){transcript=true}

@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Por que ter seu próprio conteúdo preciso e consistente antes de enviar para fora do site
 * Como oportunidades fora do site (citado sentimento, Wikipedia, Reddit, YouTube) e alavancas clássicas como backlinks e comentários criam autoridade
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502781/?captions=por_br&learn=on){transcript=true}

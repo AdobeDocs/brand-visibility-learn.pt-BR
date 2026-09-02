@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Por que tornar o conteúdo mais fácil de ler não é manipulação
 * Por que a execução dentro da CDN torna esse processo natural e de baixo risco
 
->[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502808/?captions=por_br&learn=on){transcript=true}

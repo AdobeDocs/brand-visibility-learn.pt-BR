@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * O que mudou recentemente, incluindo Googlebot agora lendo o arquivo
 * Por que criar um é um seguro de baixo esforço, não uma garantia de citação
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502898/?captions=por_br&learn=on){transcript=true}

@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Como agrupar tópicos por pessoa, como um tomador de decisão ou um aluno
 * Por que a visibilidade média em todo um público-alvo oculta sua posição real
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502799/?captions=por_br&learn=on){transcript=true}

@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Por que a cobertura consistente pode superar uma única classificação número um
 * Por que o conteúdo temático profundo e o forte SEO ainda geram citações
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502826/?captions=por_br&learn=on){transcript=true}

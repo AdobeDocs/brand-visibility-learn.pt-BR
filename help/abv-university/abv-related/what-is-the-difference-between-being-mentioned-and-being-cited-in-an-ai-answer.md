@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Como a recuperação (RAG) é o que produz uma citação real
 * Por que uma citação é um sinal mais forte de que sua marca foi usada como evidência
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502844/?captions=por_br&learn=on){transcript=true}

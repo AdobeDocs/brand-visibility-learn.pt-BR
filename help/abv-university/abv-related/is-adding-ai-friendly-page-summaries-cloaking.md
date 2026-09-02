@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Como as otimizações de borda servem atualmente apenas bots de IA, não rastreadores de pesquisa
 * Como qualquer otimização pode ser revertida em segundos a partir da CDN
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502868/?captions=por_br&learn=on){transcript=true}

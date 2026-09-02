@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá:
 * Por que a pontuação é uma estrela do norte que é difícil de agir sozinha
 * Quais métricas devem ser emparelhadas, de menções e citações a agenciais e tráfegos de referência
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502907/?captions=por_br&learn=on){transcript=true}
