@@ -1,7 +1,7 @@
 ---
 user-guide-title: Visibilidade da marca tutoriais
 user-guide-description: Visibilidade da marca tutoriais
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -9,7 +9,7 @@ ht-degree: 0%
 ---
 
 
-# Visibilidade da marca tutoriais {#tutorials}
+# Universidade de visibilidade da marca {#tutorials}
 
 + [Visão geral](overview.md)
 + [Relatório de Desempenho de IA das Ferramentas do Webmaster do Bing](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
