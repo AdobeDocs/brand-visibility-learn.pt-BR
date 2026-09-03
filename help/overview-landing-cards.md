@@ -1,17 +1,19 @@
 ---
-title: 'Universidade Brand Visibility: Teste de placas de aterrissagem'
-description: Visão geral da Universidade de Visibilidade da marca alternativa criada com o componente de contêiner de cartões de aterrissagem para uma comparação A/B de estilos de cartão.
-source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
+title: 'Universidade de visibilidade da marca: Tutoriais em vídeo GEO'
+description: Saiba como Pesquisas com IA e LLMs funcionam e como ganhar visibilidades da marca e citações em respostas de IA, com vídeos de valor prático da Universidade de Visibilidades da marca.
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 2%
+source-wordcount: 845
+ht-degree: 3%
 
 ---
 
 
-# Universidade Brand Visibility (teste A/B de cartões de aterrissagem)
+# Adobe Brand Visibility University
 
-Esta é uma versão alternativa da visão geral criada com o componente `landing-cards-container`, para comparar com os cartões HTML gerados. Mesmos vídeos, agrupados por tópico.
+Bem-vindo à Adobe Brand Visibility University, uma biblioteca crescente de vídeos de valor prático e curtos que explicam como as Pesquisas com IA e os grandes modelos linguísticos funcionam, e como ganhar visibilidade e citações para sua marca em respostas de IA. Navegue pelo tópico abaixo.
 
 ## Fundações: como a Pesquisa com IA funciona {#foundations}
 
