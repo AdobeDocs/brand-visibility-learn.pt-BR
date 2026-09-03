@@ -1,9 +1,9 @@
 ---
 user-guide-title: Visibilidade da marca tutoriais
 user-guide-description: Visibilidade da marca tutoriais
-source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
+source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 # Universidade de visibilidade da marca {#tutorials}
 
 + [Visão geral](overview.md)
++ [Visão geral (teste de cartões de aterrissagem)](overview-landing-cards.md)
 + [Como os LLMs funcionam: Guia de um profissional de marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Relatório de Desempenho de IA das Ferramentas do Webmaster do Bing](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Você precisa otimizar todo o seu site?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
