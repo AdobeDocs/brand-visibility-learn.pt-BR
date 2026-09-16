@@ -33,4 +33,4 @@ Neste vídeo, você aprenderá:
 * Por que manter um registro versionado de seus prompts e sua intenção os melhora com o tempo
 * Como fazer upload de suas solicitações na Configuração do cliente e por que as alterações frequentes podem afetar as pontuações do histórico
 
->[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502746/?captions=por_br&learn=on){transcript=true}
