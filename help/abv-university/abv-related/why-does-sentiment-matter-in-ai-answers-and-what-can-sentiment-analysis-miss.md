@@ -46,4 +46,4 @@ Neste vídeo, você aprenderá:
 * Por que o mesmo prompt pode retornar tons diferentes entre usuários e dias
 * Como o Adobe Brand Visibility rastreia o sentimento ao longo do tempo e por prompt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502880/?captions=por_br&learn=on){transcript=true}

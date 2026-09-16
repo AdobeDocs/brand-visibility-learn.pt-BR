@@ -54,4 +54,4 @@ Neste vídeo, você aprenderá:
 * Como as contagens de palavras de visibilidade de conteúdo mostram o quanto a IA realmente vê
 * Por que os agentes precisam de estrutura de página clara, especialmente para formulários e interações
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502772/?captions=por_br&learn=on){transcript=true}

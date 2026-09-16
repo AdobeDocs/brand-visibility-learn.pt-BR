@@ -49,4 +49,4 @@ Neste vídeo, você aprenderá:
 * Como o HTML pré-renderizado é distribuído somente para bots de IA, não para usuários
 * Como os resumos e os sumários inseridos ajudam os bots a entender uma página
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502790/?captions=por_br&learn=on){transcript=true}

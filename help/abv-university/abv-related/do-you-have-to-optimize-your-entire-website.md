@@ -51,4 +51,4 @@ Neste vídeo, você aprenderá:
 * Onde analisar quais sugestões você aplicou e quais ainda estão abertas
 * Como reverter qualquer otimização a qualquer momento
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502731/?captions=por_br&learn=on){transcript=true}

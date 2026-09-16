@@ -46,4 +46,4 @@ Neste vídeo, você aprenderá:
 * Por que escrever o local no prompt corresponde melhor ao comportamento real do usuário
 * Quais são os prompts para começar e como a abordagem se aplica a todos os setores
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502756/?captions=por_br&learn=on){transcript=true}
