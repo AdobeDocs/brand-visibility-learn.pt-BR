@@ -6,15 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02
 jira: KT-22505
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+nudge: edit2
+source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
-
 ---
-
 # Como Escrever Prompts Que Fornecem Insights GEOGRÁFICOS Confiáveis E Repetíveis?
 
 Trate os prompts que você rastreia como casos de teste. Este vídeo mostra como os prompts realistas, específicos e repetíveis fornecem insights de visibilidade de IA estáveis e confiáveis no Adobe Brand Visibility.
