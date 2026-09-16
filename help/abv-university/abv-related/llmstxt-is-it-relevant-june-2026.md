@@ -6,15 +6,25 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 634
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22520
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/uoPA0P2-65ldj7eUvZDJIG5Xq9JnrpHk2hpZS03bbCY'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
-
 ---
-
 # LLMs.txt - É relevante (junho de 2026)
 
 Revisitando o LLMs.txt com dados recentes: uma auditoria de quase 5.000 sites do AEM mostra que a adoção e as citações de IA são pequenas, mas o Googlebot agora lê o arquivo, então criar um é um seguro barato.
@@ -34,4 +44,4 @@ Neste vídeo, você aprenderá:
 * O que mudou recentemente, incluindo Googlebot agora lendo o arquivo
 * Por que criar um é um seguro de baixo esforço, não uma garantia de citação
 
->[!VIDEO](https://video.tv.adobe.com/v/3502898/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
