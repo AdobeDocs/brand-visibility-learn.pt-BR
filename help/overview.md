@@ -17,15 +17,18 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '863'
 ht-degree: 3%
 ---
 
 # Adobe Brand Visibility University
 
 Bem-vindo à Adobe Brand Visibility University, uma biblioteca crescente de vídeos de valor prático e curtos que explicam como as Pesquisas com IA e os grandes modelos linguísticos funcionam, e como ganhar visibilidade e citações para sua marca em respostas de IA. Navegue pelo tópico abaixo.
+
+>[!NOTE]
+>Para obter a documentação completa, consulte a [documentação do Adobe Brand Visibility](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home).
 
 ## Fundações: como a Pesquisa com IA funciona {#foundations}
 
