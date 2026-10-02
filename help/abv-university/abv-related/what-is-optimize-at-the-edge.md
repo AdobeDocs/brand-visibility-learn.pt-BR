@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -49,4 +52,4 @@ Neste vídeo, você aprenderá:
 * Como o HTML pré-renderizado é distribuído somente para bots de IA, não para usuários
 * Como os resumos e os sumários inseridos ajudam os bots a entender uma página
 
->[!VIDEO](https://video.tv.adobe.com/v/3502790/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
