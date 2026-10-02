@@ -51,7 +51,7 @@ Neste vídeo, você aprenderá:
 * Onde encontrar o relatório de antes e depois no Opportunity Workspace
 * Por que os visitantes humanos não veem nenhuma alteração enquanto a IA vê a página otimizada
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504051/?captions=por_br&learn=on){transcript=true}
 
 >[!NOTE]
 >Selecione pelo menos 20 URLs para que o mecanismo tenha uma amostra grande o suficiente para medir o impacto com precisão. A avaliação de impacto está disponível hoje para a visibilidade do conteúdo de recuperação e está se expandindo para todas as oportunidades Otimizar na Edge.
