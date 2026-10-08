@@ -32,4 +32,4 @@ Neste vídeo, você aprenderá:
 * Como ler sua própria visão geral da IA de marca e ver quais fontes a Google cita
 * Por que a resposta da IA sobre sua marca vale a pena ser observada tão de perto quanto suas classificações
 
->[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504217/?captions=por_br&learn=on){transcript=true}
