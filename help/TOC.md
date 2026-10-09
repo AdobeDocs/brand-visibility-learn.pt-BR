@@ -1,15 +1,17 @@
 ---
 user-guide-title: Visibilidade da marca tutoriais
 user-guide-description: Visibilidade da marca tutoriais
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # Universidade de visibilidade da marca {#tutorials}
 
 + [Visão geral](overview.md)
++ Notícias e insights {#news-and-insights}
+  + [O Google agora responde a nomes de marca com visões gerais de IA](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Fundações: como a Pesquisa com IA funciona {#foundations}
   + [Como os LLMs funcionam: Guia de um profissional de marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [Escrevendo solicitações para insights GEO confiáveis e repetíveis](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)

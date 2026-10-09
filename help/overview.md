@@ -17,10 +17,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
+source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 2%
 ---
 
 # Adobe Brand Visibility University
@@ -29,6 +29,22 @@ Bem-vindo à Adobe Brand Visibility University, uma biblioteca crescente de víd
 
 >[!NOTE]
 >Para obter a documentação completa, consulte a [documentação do Adobe Brand Visibility](https://experienceleague.adobe.com/pt-br/docs/brand-visibility/using/home).
+
+## Notícias e insights {#news-and-insights}
+
+As últimas mudanças nas Pesquisas com IA e o que elas significam para sua marca.
+
+::::landing-cards-container
+:::card
+![O Google agora responde a nomes de marca com visões gerais de IA](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+O Google agora responde a nomes de marca com visões gerais de IA
+
+Como as visões gerais de IA do Google agora respondem a pesquisas de nomes de marca e o que assistir nas respostas do Console de pesquisa e IA.
+
+[Observar](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
 
 ## Fundações: como a Pesquisa com IA funciona {#foundations}
 
@@ -157,6 +173,15 @@ Uma auditoria de quase 5.000 sites do AEM sobre a adoção do LLMs.txt, e por qu
 Saiba o que medir e como ler os sinais que mostram se a IA pode ver e citar você.
 
 ::::landing-cards-container
+:::card
+![Como o Mecanismo de Medição de Impacto Funciona](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+Como o Mecanismo de Medição de Impacto Funciona
+
+Como o mecanismo mede a visibilidade da IA antes e depois de uma otimização e relata exatamente o que foi alterado.
+
+[Observar](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
 :::card
 ![Pontuação de visibilidade e métricas para visibilidade da IA](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 
