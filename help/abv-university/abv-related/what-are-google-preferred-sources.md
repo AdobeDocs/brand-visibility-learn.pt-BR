@@ -32,4 +32,4 @@ Neste vídeo, você aprenderá:
 * Como adicionar o botão com duas linhas do HTML ou um fallback de link simples
 * Como verificar a elegibilidade e rastrear seleções no Google Search Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504837/?captions=por_br&learn=on){transcript=true}

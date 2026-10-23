@@ -33,4 +33,4 @@ Neste vídeo, você aprenderá:
 * Onde começar, desde a pesquisa somente leitura até ações de maior risco
 * Onde o Adobe Sites Optimizer e o Adobe Brand Visibility se encaixam
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504846/?captions=por_br&learn=on){transcript=true}
