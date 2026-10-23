@@ -1,9 +1,9 @@
 ---
 user-guide-title: Visibilidade da marca tutoriais
 user-guide-description: Visibilidade da marca tutoriais
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 ---
 
@@ -11,6 +11,8 @@ ht-degree: 0%
 
 + [Visão geral](overview.md)
 + Notícias e insights {#news-and-insights}
+  + [Explicação das fontes preferenciais do Google](abv-university/abv-related/what-are-google-preferred-sources.md)
+  + [WebMCP e como os agentes de IA usam seu site](abv-university/abv-related/what-is-webmcp.md)
   + [O Google agora responde a nomes de marca com visões gerais de IA](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Fundações: como a Pesquisa com IA funciona {#foundations}
   + [Como os LLMs funcionam: Guia de um profissional de marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)

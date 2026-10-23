@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1013'
 ht-degree: 2%
 ---
 
@@ -28,13 +28,31 @@ ht-degree: 2%
 Bem-vindo à Adobe Brand Visibility University, uma biblioteca crescente de vídeos de valor prático e curtos que explicam como as Pesquisas com IA e os grandes modelos linguísticos funcionam, e como ganhar visibilidade e citações para sua marca em respostas de IA. Navegue pelo tópico abaixo.
 
 >[!NOTE]
->Para obter a documentação completa, consulte a [documentação do Adobe Brand Visibility](https://experienceleague.adobe.com/pt-br/docs/brand-visibility/using/home).
+>Para obter a documentação completa, consulte a [documentação do Adobe Brand Visibility](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home).
 
 ## Notícias e insights {#news-and-insights}
 
 As últimas mudanças nas Pesquisas com IA e o que elas significam para sua marca.
 
 ::::landing-cards-container
+:::card
+![Explicação das fontes preferenciais da Google](/help/assets/overview/what-are-google-preferred-sources.png)
+
+Explicação das fontes preferenciais do Google
+
+O que o recurso Fontes preferenciais da Google faz, por que ele está crescendo rapidamente e como adicioná-lo em duas linhas do HTML.
+
+[Observar](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCP e como os agentes de IA usam seu site](/help/assets/overview/what-is-webmcp.png)
+
+WebMCP e como os agentes de IA usam seu site
+
+Como o WebMCP permite que os agentes de IA chamem ferramentas na sua página como uma API, como ele difere do MCP e onde começar.
+
+[Observar](abv-university/abv-related/what-is-webmcp.md)
+:::
 :::card
 ![O Google agora responde a nomes de marca com visões gerais de IA](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 
