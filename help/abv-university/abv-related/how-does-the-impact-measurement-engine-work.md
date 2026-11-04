@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # Como funciona o mecanismo de medição de impacto?
@@ -51,7 +51,7 @@ Neste vídeo, você aprenderá:
 * Onde encontrar o relatório de antes e depois no Opportunity Workspace
 * Por que os visitantes humanos não veem nenhuma alteração enquanto a IA vê a página otimizada
 
->[!VIDEO](https://video.tv.adobe.com/v/3504051/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
 
 >[!NOTE]
->Selecione pelo menos 20 URLs para que o mecanismo tenha uma amostra grande o suficiente para medir o impacto com precisão. A avaliação de impacto está disponível hoje para a visibilidade do conteúdo de recuperação e está se expandindo para todas as oportunidades Otimizar na Edge.
+>Selecione pelo menos 20 URLs para que o mecanismo tenha uma amostra grande o suficiente para medir o impacto com precisão. A avaliação de impacto está disponível hoje para Recuperar Visibilidades do conteúdo, Adicionar resumos amigáveis a LLM e Adicionar índice, e pretende expandir para otimizar as oportunidades da Edge.
