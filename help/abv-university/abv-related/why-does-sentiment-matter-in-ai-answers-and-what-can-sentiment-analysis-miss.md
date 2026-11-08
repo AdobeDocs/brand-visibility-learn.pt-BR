@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 ---
-# Por que o Sentimento é importante nas respostas da IA e o que a análise do Sentimento pode perder?
+# Por que o sentimento é importante nas respostas de IA e o que a análise do sentimento pode deixar de observar?
 
 O sentimento é a direção emocional da linguagem e molda como as respostas da IA retratam sua marca. Este vídeo explica por que é importante e onde a análise do sentimento pode dar errado.
 
