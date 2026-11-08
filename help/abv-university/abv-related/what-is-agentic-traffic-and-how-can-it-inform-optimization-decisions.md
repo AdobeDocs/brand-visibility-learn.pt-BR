@@ -33,12 +33,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 ---
-# O Que É Tráfego Agênico E Como Ele Pode Informar As Decisões De Otimização?
+# O que é tráfego agenciador e como ele pode informar as decisões de otimização?
 
 O tráfego de agente é a IA que interage ativamente com seu site. Este vídeo mostra como monitorá-lo no Adobe Brand Visibility revela o que a IA pode acessar e onde agir.
 
@@ -57,4 +57,4 @@ Neste vídeo, você aprenderá:
 * Como as contagens de palavras de visibilidade de conteúdo mostram o quanto a IA realmente vê
 * Por que os agentes precisam de estrutura de página clara, especialmente para formulários e interações
 
->[!VIDEO](https://video.tv.adobe.com/v/3502772/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}

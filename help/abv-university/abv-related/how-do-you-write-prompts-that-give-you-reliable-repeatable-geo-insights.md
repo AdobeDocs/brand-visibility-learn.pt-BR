@@ -28,12 +28,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 ---
-# Como Escrever Prompts Que Fornecem Insights GEOGRÁFICOS Confiáveis E Repetíveis?
+# Como você escreve prompts que fornecem insights GEO confiáveis e repetíveis?
 
 Trate os prompts que você rastreia como casos de teste. Este vídeo mostra como os prompts realistas, específicos e repetíveis fornecem insights de visibilidade de IA estáveis e confiáveis no Adobe Brand Visibility.
 
@@ -52,4 +52,4 @@ Neste vídeo, você aprenderá:
 * Por que manter um registro versionado de seus prompts e sua intenção os melhora com o tempo
 * Como fazer upload de suas solicitações na Configuração do cliente e por que as alterações frequentes podem afetar as pontuações do histórico
 
->[!VIDEO](https://video.tv.adobe.com/v/3502746/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

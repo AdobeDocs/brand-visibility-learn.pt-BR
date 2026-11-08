@@ -31,7 +31,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -55,4 +55,4 @@ Neste vídeo, você aprenderá:
 * Como informações incorretas de terceiros podem gerar uma experiência ruim para o cliente
 * Por que o monitoramento semanal é uma cadência prática, com disponibilidade diária
 
->[!VIDEO](https://video.tv.adobe.com/v/3502817/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}

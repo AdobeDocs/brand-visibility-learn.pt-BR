@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# Por que mapear solicitações para personas e como você adapta solicitações para públicos diferentes?
+# Por que mapear prompts para personas e como você adapta prompts para públicos diferentes?
 
 Prompt baseado em persona que mapeia grupos de prompts por tipos de usuários reais. Este vídeo mostra por que adaptar prompts aos seus públicos-alvo revela sua verdadeira posição nas respostas da IA.
 
@@ -49,4 +49,4 @@ Neste vídeo, você aprenderá:
 * Como agrupar tópicos por pessoa, como um tomador de decisão ou um aluno
 * Por que a visibilidade média em todo um público-alvo oculta sua posição real
 
->[!VIDEO](https://video.tv.adobe.com/v/3502799/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}

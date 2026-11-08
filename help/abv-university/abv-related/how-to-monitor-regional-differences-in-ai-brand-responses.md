@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -54,4 +54,4 @@ Neste vídeo, você aprenderá:
 * Por que escrever o local no prompt corresponde melhor ao comportamento real do usuário
 * Quais são os prompts para começar e como a abordagem se aplica a todos os setores
 
->[!VIDEO](https://video.tv.adobe.com/v/3502756/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}

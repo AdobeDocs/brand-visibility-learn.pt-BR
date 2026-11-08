@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# Como os grandes modelos de linguagem LLMs decidem quais citações incluir em suas respostas?
+# Como os grandes modelos linguísticos LLMs decidem quais citações incluir em suas respostas?
 
 As LLMs agrupam um único prompt em várias consultas menores e citam as fontes com melhor desempenho em todas elas. Este vídeo explica o que isso significa para citar sua marca.
 
@@ -54,4 +54,4 @@ Neste vídeo, você aprenderá:
 * Por que a cobertura consistente pode superar uma única classificação número um
 * Por que o conteúdo temático profundo e o forte SEO ainda geram citações
 
->[!VIDEO](https://video.tv.adobe.com/v/3502826/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}

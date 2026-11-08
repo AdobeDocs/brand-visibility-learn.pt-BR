@@ -8,12 +8,12 @@ doc-type: Value Video
 duration: 135
 last-substantial-update: 2026-10-08
 jira: KT-22790
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# O Google agora responde ao seu nome de marca com uma visão geral sobre IA
+# O Google agora atende à sua marca com uma Visão geral de IA
 
 Este vídeo explica como o Google agora mostra uma Visão geral de IA para a maioria das pesquisas de nomes de marca, o que isso muda na sua marca e o que assistir.
 
@@ -32,4 +32,4 @@ Neste vídeo, você aprenderá:
 * Como ler sua própria visão geral da IA de marca e ver quais fontes a Google cita
 * Por que a resposta da IA sobre sua marca vale a pena ser observada tão de perto quanto suas classificações
 
->[!VIDEO](https://video.tv.adobe.com/v/3504217/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}

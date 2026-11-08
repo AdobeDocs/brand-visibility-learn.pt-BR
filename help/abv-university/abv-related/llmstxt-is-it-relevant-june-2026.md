@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# LLMs.txt - É relevante (junho de 2026)
+# LLMs.txt - é relevante (junho de 2026)
 
 Revisitando o LLMs.txt com dados recentes: uma auditoria de quase 5.000 sites do AEM mostra que a adoção e as citações de IA são pequenas, mas o Googlebot agora lê o arquivo, então criar um é um seguro barato.
 
@@ -49,4 +49,4 @@ Neste vídeo, você aprenderá:
 * O que mudou recentemente, incluindo Googlebot agora lendo o arquivo
 * Por que criar um é um seguro de baixo esforço, não uma garantia de citação
 
->[!VIDEO](https://video.tv.adobe.com/v/3502898/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}

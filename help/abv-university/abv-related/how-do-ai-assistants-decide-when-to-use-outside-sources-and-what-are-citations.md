@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -48,4 +48,4 @@ Neste vídeo, você aprenderá:
 * Por que algumas citações são alucinadas e podem levar ao 404s
 * Como diferenciar uma fonte recuperada real do texto gerado pelo modelo
 
->[!VIDEO](https://video.tv.adobe.com/v/3502835/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}

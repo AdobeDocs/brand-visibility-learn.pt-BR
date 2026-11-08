@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# Quais conceitos básicos técnicos ajudam os LLMs a Rastrear e interpretar o seu site corretamente?
+# Quais conceitos técnicos básicos ajudam os LLMs a rastrear e interpretar o seu site corretamente?
 
 As experiências do LLM dependem da mesma infraestrutura da Web que a pesquisa: rastrea, indexação e renderização. Este vídeo aborda as noções básicas técnicas que mantêm o conteúdo visível e citável.
 
@@ -54,4 +54,4 @@ Neste vídeo, você aprenderá:
 * Por que os canônicos, paywalls e murais de logon inconsistentes limitam o acesso à IA
 * Como a renderização do lado do cliente oculta o conteúdo e como a recuperação do visibilidade do conteúdo o corrige
 
->[!VIDEO](https://video.tv.adobe.com/v/3502926/?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
